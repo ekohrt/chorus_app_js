@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# Chorus
+Web app for making musical beat loops with friends online
+
 # instrument notes
 piano: 4
 electric guitar: 318
